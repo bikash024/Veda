@@ -1,4 +1,4 @@
-#COVID-19 Global Impact Dashboard
+# COVID-19 Global Impact Dashboard
 
 ## Objective
 Analyze global COVID-19 trends across countries using cases, deaths, vaccination coverage, and population-normalized metrics.
